@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task.CSharpBase\bin\Release\Task.CSharpBase.exe.config
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task.CSharpBase\bin\Release\Task.CSharpBase.exe
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task.CSharpBase\bin\Release\Task.CSharpBase.pdb
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task.CSharpBase\obj\Release\Task.CSharpBase.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task.CSharpBase\obj\Release\Task.CSharpBase.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task.CSharpBase\obj\Release\Task.CSharpBase.exe
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task.CSharpBase\obj\Release\Task.CSharpBase.pdb
