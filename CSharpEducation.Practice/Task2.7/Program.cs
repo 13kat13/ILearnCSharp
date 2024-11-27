@@ -18,7 +18,8 @@ namespace Task2._7
             {
                 if (s[i] == '*') k++;
             }
-            Console.WriteLine("число '*' в строке равно " + k);
+            k = k * 100 / s.Length;
+            Console.WriteLine("процент вхождения заданного символа '*' в строку равен " + k + "%");
             //b.строка и символ указываются пользователем в консоли
             Console.WriteLine("введите строку");
             string s2 = Console.ReadLine();
@@ -29,7 +30,8 @@ namespace Task2._7
             {
                 if (s2[i] == c) k2++;
             }
-            Console.WriteLine("число данного символа в строке равно " + k2);
+            k2 = k2 * 100 / s2.Length;
+            Console.WriteLine("процент вхождения заданного символа '*' в строку равен " + k2 + "%");
             //c.строка и символ указываются через аргументы командной строки?????
             Console.ReadKey();
         }
