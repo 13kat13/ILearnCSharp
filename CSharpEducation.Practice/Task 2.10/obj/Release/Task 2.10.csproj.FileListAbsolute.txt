@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task 2.10\bin\Release\Task 2.10.exe.config
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task 2.10\bin\Release\Task 2.10.exe
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task 2.10\bin\Release\Task 2.10.pdb
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task 2.10\obj\Release\Task 2.10.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task 2.10\obj\Release\Task 2.10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task 2.10\obj\Release\Task 2.10.exe
+C:\Users\user\Desktop\курсы с Егором\ILearnCSharp\CSharpEducation.Practice\Task 2.10\obj\Release\Task 2.10.pdb
