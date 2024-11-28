@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Task2._7
 {
@@ -31,9 +32,19 @@ namespace Task2._7
                 if (s2[i] == c) k2++;
             }
             k2 = k2 * 100 / s2.Length;
-            Console.WriteLine("процент вхождения заданного символа '*' в строку равен " + k2 + "%");
-            //c.строка и символ указываются через аргументы командной строки?????
+            Console.WriteLine("процент вхождения заданного символа '" + c + "' в строку равен " + k2 + "%");
             Console.ReadKey();
+            //c.строка и символ указываются через аргументы командной строки?????
+            string s3 = args[0];
+            char c3 = Convert.ToChar(args[1]);
+            int k3 = 0;
+            for (int i = 0; i < s3.Length; i++)
+            {
+                if (s3[i] == c3) k3++;
+            }
+            k3 = k3 * 100 / s3.Length;
+            Console.WriteLine("процент вхождения заданного символа '" + c3 + "' в строку равен " + k3 + "%");
+            
         }
     }
 }
